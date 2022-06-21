@@ -1,5 +1,5 @@
 var i = 0;
-const video = ['mar.mp4', 'floresta.mp4', 'fundo.mp4', 'cachoeira.mp4', 'teclado.mp4', 'moto.mp4'];
+const video = ['moto.mp4', 'floresta.mp4', 'cachoeira.mp4','mar.mp4', 'fundo.mp4', 'teclado.mp4'];
 const vid = document.querySelector('#vid');
 const parag = document.querySelector('#parag');
 const ex = document.querySelector('#ex');
