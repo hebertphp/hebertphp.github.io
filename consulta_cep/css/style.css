@@ -1,0 +1,30 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: hsl(210, 17%, 98%);
+}
+#container{
+    width: 500px;
+    margin: 10px auto;
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 5px;
+}
+h2{
+    margin: 20px 0;
+}
+input[type=text]{
+    border-radius: 5px;
+    padding: 5px;
+    border:1px solid grey;
+}
+input[type=text]:focus,#btn:focus,#limp:focus {
+    background-color: lightblue;
+  }
+button{
+    border-radius: 5px;
+    padding: 5px;
+}
